@@ -4,7 +4,7 @@
 
 Exercícios e desafios de **PHP** com **Programação Orientada a Objetos**, usando como tema máquinas, sensores e produção industrial. O projeto vai de laços de repetição simples até um painel de monitoramento com herança e polimorfismo.
 
-**Página Web**: https://github.com/Manuella-Maia/industria40-php-poo
+**Página Web**: https://industria40-php-poo-web.vercel.app/
 
 
 ## Destaque: Painel Industrial 4.0
